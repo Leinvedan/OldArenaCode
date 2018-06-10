@@ -1,0 +1,27 @@
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.exe.config
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.exe
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.pdb
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.csprojResolveAssemblyReference.cache
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.Form1.resources
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.Properties.Resources.resources
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.csproj.GenerateResource.Cache
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.exe
+c:\users\fonte\documents\visual studio 2015\Projects\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.pdb
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.exe.config
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.exe
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.pdb
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.exe
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.pdb
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.csprojResolveAssemblyReference.cache
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.Form1.resources
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.Properties.Resources.resources
+C:\Users\gamer2\Desktop\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.csproj.GenerateResource.Cache
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.exe.config
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.exe
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.pdb
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.csprojResolveAssemblyReference.cache
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.Form1.resources
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.Properties.Resources.resources
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\obj\Debug\ArenaEmC.csproj.GenerateResource.Cache
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.exe
+C:\Users\gamer2\Desktop\Jogo Arena\ArenaEmC\ArenaEmC\bin\Debug\ArenaEmC.pdb
